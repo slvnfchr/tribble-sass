@@ -1,0 +1,25 @@
+{
+  "name": "tribble-sass",
+  "version": "0.0.1",
+  "description": "Tribble SASS plugin",
+  "homepage": "https://github.com/slvnfchr/tribble-sass",
+  "main": "lib/index.js",
+  "scripts": {
+    "lint": "$(npm bin)/eslint ./lib; exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/slvnfchr/tribble-sass.git"
+  },
+  "author": "Sylvain Foucher",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^3.10.0",
+    "tribble-plugin": "0.0.1"
+  },
+  "devDependencies": {
+    "eslint": "^3.5.0",
+    "eslint-config-airbnb-base": "^7.1.0",
+    "eslint-plugin-import": "^1.15.0"
+  }
+}
