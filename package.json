@@ -1,6 +1,6 @@
 {
   "name": "tribble-sass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Tribble SASS plugin",
   "homepage": "https://github.com/slvnfchr/tribble-sass",
   "main": "lib/index.js",
@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^3.10.0",
-    "tribble-plugin": "0.0.1"
+    "tribble-plugin": "latest"
   },
   "devDependencies": {
     "eslint": "^3.5.0",
