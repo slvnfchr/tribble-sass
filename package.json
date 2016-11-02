@@ -1,6 +1,6 @@
 {
   "name": "tribble-sass",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Tribble SASS plugin",
   "homepage": "https://github.com/slvnfchr/tribble-sass",
   "main": "lib/index.js",
