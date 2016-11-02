@@ -1,0 +1,7 @@
+{
+	"/lib/index": {
+		"tags": ["preprocessor"],
+		"consumes": ["text/x-sass","text/x-scss"],
+		"produces": ["text/css"]
+	}
+}

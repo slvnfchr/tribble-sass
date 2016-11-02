@@ -14,12 +14,14 @@
   "author": "Sylvain Foucher",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^3.10.0",
-    "tribble-plugin": "latest"
+    "node-sass": "^3.10.0"
   },
   "devDependencies": {
     "eslint": "^3.5.0",
     "eslint-config-airbnb-base": "^7.1.0",
     "eslint-plugin-import": "^1.15.0"
+  },
+  "peerDependencies": {
+    "tribble": ">= 0.1.0"
   }
 }
